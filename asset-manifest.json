@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/iotlabpage/static/css/main.37860022.chunk.css",
+    "main.js": "/iotlabpage/static/js/main.2962aa42.chunk.js",
+    "main.js.map": "/iotlabpage/static/js/main.2962aa42.chunk.js.map",
+    "runtime-main.js": "/iotlabpage/static/js/runtime-main.7d6a950d.js",
+    "runtime-main.js.map": "/iotlabpage/static/js/runtime-main.7d6a950d.js.map",
+    "static/js/2.0e51d2d5.chunk.js": "/iotlabpage/static/js/2.0e51d2d5.chunk.js",
+    "static/js/2.0e51d2d5.chunk.js.map": "/iotlabpage/static/js/2.0e51d2d5.chunk.js.map",
+    "static/js/3.c99fc613.chunk.js": "/iotlabpage/static/js/3.c99fc613.chunk.js",
+    "static/js/3.c99fc613.chunk.js.map": "/iotlabpage/static/js/3.c99fc613.chunk.js.map",
+    "index.html": "/iotlabpage/index.html",
+    "static/css/main.37860022.chunk.css.map": "/iotlabpage/static/css/main.37860022.chunk.css.map",
+    "static/js/2.0e51d2d5.chunk.js.LICENSE.txt": "/iotlabpage/static/js/2.0e51d2d5.chunk.js.LICENSE.txt",
+    "static/media/7.9340cbf1.png": "/iotlabpage/static/media/7.9340cbf1.png",
+    "static/media/book.b484b265.png": "/iotlabpage/static/media/book.b484b265.png",
+    "static/media/certificate.73462486.png": "/iotlabpage/static/media/certificate.73462486.png",
+    "static/media/check.657157be.png": "/iotlabpage/static/media/check.657157be.png",
+    "static/media/distance-learning.9ae577b2.png": "/iotlabpage/static/media/distance-learning.9ae577b2.png",
+    "static/media/funding.c7d95bc7.png": "/iotlabpage/static/media/funding.c7d95bc7.png",
+    "static/media/notebook.b3c38d51.png": "/iotlabpage/static/media/notebook.b3c38d51.png",
+    "static/media/presentation 2.9ec5d569.png": "/iotlabpage/static/media/presentation 2.9ec5d569.png",
+    "static/media/presentation.a9ad95a0.png": "/iotlabpage/static/media/presentation.a9ad95a0.png",
+    "static/media/rating.b4c8d27d.png": "/iotlabpage/static/media/rating.b4c8d27d.png",
+    "static/media/recruitment.7f7918c0.png": "/iotlabpage/static/media/recruitment.7f7918c0.png",
+    "static/media/right.7968139d.png": "/iotlabpage/static/media/right.7968139d.png",
+    "static/media/sharing.8e6384e5.png": "/iotlabpage/static/media/sharing.8e6384e5.png",
+    "static/media/tool-box.33f3fad6.png": "/iotlabpage/static/media/tool-box.33f3fad6.png",
+    "static/media/user.c9207524.png": "/iotlabpage/static/media/user.c9207524.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d6a950d.js",
+    "static/js/2.0e51d2d5.chunk.js",
+    "static/css/main.37860022.chunk.css",
+    "static/js/main.2962aa42.chunk.js"
+  ]
+}
